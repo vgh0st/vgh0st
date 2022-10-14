@@ -28,6 +28,6 @@
 
 ### Contacts ✉
 
-- <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png" width="24px">  dev.vinicosta@gmail.com
+- <img src="https://pixlok.com/wp-content/uploads/2021/04/Gmail-Logo-PNG-768x768.jpg" width="24px">  dev.vinicosta@gmail.com
 
 ##
