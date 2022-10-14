@@ -28,6 +28,6 @@
 
 ### Contato 📧
 
-- <img src="https://pixlok.com/wp-content/uploads/2021/04/Gmail-Logo-PNG-1024x1024.jpg" width="24px">  dev.vinicosta@gmail.com
+- <img src="https://pbs.twimg.com/media/ElXTrHcXEAACIZE" width="24px">  dev.vinicosta@gmail.com
 
 ##
