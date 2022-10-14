@@ -10,7 +10,7 @@
 
 
 <img height="120em"  src="https://github-readme-stats.vercel.app/api?username=vgh0st&show_icons=true&theme=radical&include_all_commits=true&count_private=true"> <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgh0st&layout=compact&langs_count=16&theme=radical">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vgh0st)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vgh0st&theme=dark&hide_border=true&locale=pt-br&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 ##
 
