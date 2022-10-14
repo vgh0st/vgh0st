@@ -20,14 +20,21 @@
 ##
 
 ### Conhecimentos 🧠
-- <a href="https://pt.wikipedia.org/wiki/JavaScript"> <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
- - <a href="https://pt.wikipedia.org/wiki/HTML#"> <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
--  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"> <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<a href="https://pt.wikipedia.org/wiki/JavaScript"> <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
+<a href="https://pt.wikipedia.org/wiki/HTML#"> <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"> <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
 ##
 
 ### Contato 📧
 
-- <img src="https://cdn-icons-png.flaticon.com/512/324/324123.png" width="24px">  dev.vinicosta@gmail.com
+<img src="https://cdn-icons-png.flaticon.com/512/324/324123.png" width="24px">  dev.vinicosta@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 
 ##
