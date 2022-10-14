@@ -1,10 +1,33 @@
-- 👋 Oi, eu sou @vgh0st
-- 👀 Estou interessado em desenvolvimento.
-- 🌱 Estou aprendendo Análise e Desenvolvimento de Sistemas.
-- 💞️ Estou procurando colaborar em projetos inovadores.
-- 📫 Como chegar até mim? 
 
-<!---
-vgh0st/vgh0st is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+#  Olá mundo! ☕
+
+## Sobre Mim 👨‍💻
+ 
+> Meu nome é Vinícius, tenho 29 anos e sempre fui ligado em tecnologia, programaçao, jogos e integraçoes via APIs. 
+
+> Atualmente estou cursando Análise e Desenvolvimento de Sistema na Uniasselvi, mas possuo certificaçao técnica em informática e focada em programaçao (C3, HTML, Asp.Net e Sql Server).
+
+
+<img height="100em"  src="https://github-readme-stats.vercel.app/api?username=vgh0st&show_icons=true&theme=radical&include_all_commits=true&count_private=true"> <img height="100em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgh0st&layout=compact&langs_count=16&theme=radical">
+
+##
+
+
+### Hobbies 
+
+
+##
+
+### Conhecimentos 🧠
+- <a href="https://pt.wikipedia.org/wiki/JavaScript"> <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
+ - <a href="https://pt.wikipedia.org/wiki/HTML#"> <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+-  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"> <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+
+##
+
+### Contacts ✉
+
+- <img src="https://drvendas.com.br/wp-content/uploads/2018/08/logo-gmail-1.png" width="24px">  dev.vinicosta@gmail.com
+
+##
