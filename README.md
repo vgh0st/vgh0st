@@ -10,6 +10,7 @@
 
 
 <img height="120em"  src="https://github-readme-stats.vercel.app/api?username=vgh0st&show_icons=true&theme=radical&include_all_commits=true&count_private=true"> <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgh0st&layout=compact&langs_count=16&theme=radical">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vgh0st)](https://git.io/streak-stats)
 
 ##
 
