@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu me chamo Vinicius</h1>
 <h3 align="center">Um aventureiro na área da programação</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vgh0st&label=Profile%20views&color=0e75b6&style=flat" alt="vgh0st" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vgh0st&label=Visualizações&color=0e75b6&style=flat" alt="vgh0st" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vgh0st" alt="vgh0st" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 Atualmente trabalhando no meu projeto pessoal [Rocket Viewer](https://github.com/vgh0st/RocketViewer)
 
-- 🌱 Atualmente aprendendo sobre **Node.js, JavaScript e React.js**
+- 🌱 Estou aprendendo sobre **Node.js, JavaScript e React.js**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis neste link [https://github.com/vgh0st?tab=repositories](https://github.com/vgh0st?tab=repositories)
 
