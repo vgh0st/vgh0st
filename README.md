@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vgh0st&show_icons=true&locale=en&theme=codeSTACKr" alt="vgh0st" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vgh0st&theme=dark&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vgh0st&theme=elegant&locale=pt-br&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
