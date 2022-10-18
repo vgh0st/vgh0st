@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vgh0st&label=Visualizações&color=0e75b6&style=flat" alt="vgh0st" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vgh0st" alt="vgh0st" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vgh0st&theme=algolia" alt="vgh0st" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/vgh0stp" target="blank"><img src="https://img.shields.io/twitter/follow/vgh0stp?logo=twitter&style=for-the-badge" alt="vgh0stp" /></a> </p>
 
